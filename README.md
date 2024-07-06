@@ -1,5 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Hashan Maadhuwantha</h1>
-<h3 align="center">A passionate Software Engineer (Full-stack developer).</h3>
+<h3 align="center">A passionate Software Engineer (Full-Stack Developer).</h3>
+💡 Passionate about: Building robust and efficient software solutions, continuous learning, and solving complex problems.
+🌐 Exploring: The latest industry trends and cutting-edge technologies to stay ahead in the tech world.
 
 <!--
 **IT21168390/IT21168390** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">🌐 Socials:</h2>
+<h3 align="center">🌐 Socials:</h3>
 <p align="center"> <a href="[https://www.java.com](https://linkedin.com/in/hashan-madhuwantha)" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/> </a></p>
 
 ## Languages and Tools:
