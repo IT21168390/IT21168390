@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Hashan Maadhuwantha</h1>
 <h3 align="center">A passionate Software Engineer (Full-Stack Developer).</h3>
-💡 Passionate about: Building robust and efficient software solutions, continuous learning, and solving complex problems.
+💡 Passionate about: Building robust and efficient software solutions, continuous learning, and solving complex problems. <br/>
 🌐 Exploring: The latest industry trends and cutting-edge technologies to stay ahead in the tech world.
 
 <!--
