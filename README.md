@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Hashan Maadhuwantha</h1>
-<h3 align="center">A passionate Software Engineer (Full-Stack Developer).</h3>
-💡 Passionate about: Building robust and efficient software solutions, continuous learning, and solving complex problems. <br/>
-🌐 Exploring: The latest industry trends and cutting-edge technologies to stay ahead in the tech world.
+<h3 align="center">A passionate Software Engineer (Full-Stack Developer).</h3> 
+🌐 Exploring: The latest industry trends and cutting-edge technologies to stay ahead in the tech world. <br/>
+💡 Passionate about: Building robust and efficient software solutions, continuous learning, and solving complex problems.
 
 <!--
 **IT21168390/IT21168390** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=IT21168390&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-&nbsp;
+<!-- ![](https://github-readme-stats.vercel.app/api?username=IT21168390&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+&nbsp; -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IT21168390&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 💻 Tech Stack:
