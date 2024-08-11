@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Hashan Madhuwantha</h1>
 <h3 align="center">A passionate Software Engineer (Full-Stack Developer).</h3> 
-🌐 Exploring: The latest industry trends and cutting-edge technologies to stay ahead in the tech world. <br/>
-💡 Passionate about: Building robust and efficient software solutions, continuous learning, and solving complex problems.
+🌐 Exploring the latest industry trends and cutting-edge technologies to stay ahead in the tech world. <br/>
+💡 Passionate about building robust and efficient software solutions, continuous learning, and solving complex problems.
 
 <!--
 **IT21168390/IT21168390** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
